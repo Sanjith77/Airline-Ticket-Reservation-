@@ -3,7 +3,7 @@
 
 Overview:
 
-This Airline Ticket Reservation system project refers to a software application or online platform that allows individuals to manage their reservations, and complete payments for air travel.It typically offers functionality for both passengers and airline staff to manage the ticket process efficiently. Here's a general description of how it works:
+This Airline Ticket Reservation system project refers to a software application or online platform that allows individuals to manage their reservations, and complete payments for airline travel.It typically offers functionality for both passengers and airline staff to manage the ticket process efficiently. Here's a general description of how it works:
 
 Flight Search:
 
