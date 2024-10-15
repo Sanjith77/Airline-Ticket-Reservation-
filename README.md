@@ -30,6 +30,9 @@ Integrated customer support for handling inquiries or issues related to booking,
 Benefits of Airline Reservation Systems:
 
 Convenience: Allows customers to book flights online from anywhere, at any time.
+
 Efficiency: Reduces the need for manual processing and speeds up the reservation process.
+
 Cost-saving: Many systems offer promotions and allow passengers to compare prices across multiple airlines.
+
 Real-time Availability: Offers updated information about flight availability, seat selection, and fare changes.
